@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyApp-utils-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyApp-utils/target/MyApp-utils-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
